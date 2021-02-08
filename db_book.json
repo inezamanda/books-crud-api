@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "isbn" : "9786020632414",
+        "judul" : "Mantappu Jiwa",
+        "sinopsis" : "Kata orang, selama masih hidup, manusia akan terus menghadapi masalah demi masalah. Dan itulah yang akan kuceritakan dalam buku ini, yaitu bagaimana aku menghadapi setiap persoalan di dalam hidupku. Dimulai dari aku yang lahir dekat dengan hari meletusnya kerusuhan di tahun 1998, bagaimana keluargaku berusaha menyekolahkanku dengan kondisi ekonomi yang terbatas, sampai pada akhirnya aku berhasil mendapatkan beasiswa penuh S1 di Jepang. Manusia tidak akan pernah lepas dari masalah kehidupan, betul. Tapi buku ini tidak hanya berisi cerita sedih dan keluhan ini-itu. Ini adalah catatan perjuanganku sebagai Jerome Polin Sijabat, pelajar Indonesia di Jepang yang iseng memulai petualangan di YouTube lewat channel Nihongo Mantappu. Yuk, naik roller coaster di kehidupanku yang penuh dengan kalkulasi seperti matematika. It may not gonna be super fun, but I promise it would worth the ride. Minasan, let’s go, MANTAPPU JIWA!",
+        "penulis" : "Jerome Polin",
+        "genre" : "Inspirational"
+    },
+    {
+        "id" : 2,
+        "isbn" : "9789792247770",
+        "judul" : "The Host - Sang Pengelana",
+        "sinopsis" : "Bumi dikuasai musuh tak kasatmata dan manusia dijadikan inang oleh para penguasa ini. Otak manusia diambil alih sementara tubuh mereka meneruskan kehidupan yang lama, seolah-olah tak ada yang berubah. Ketika Melanie tertangkap, tubuhnya diberikan kepada Wanderer, sang jiwa pengelana yang akan menjadi penguasa barunya. Wanderer telah diperingatkan mengenai berbagai tantangan yang akan dihadapinya dengan hidup dalam inang manusia: luapan emosi, perasaan yang melimpah, dan ingatan yang teramat kental. Namun ada satu yang tak pernah dibayangkan Wanderer: penguasa lama tubuh ini -- Melainie Stryder -- Menolak menyerahkan benaknya sepenuhnya.",
+        "penulis" : "Stephanie Meyer",
+        "genre" : "Science Fiction"
+    },
+    {
+        "id" : 3,
+        "isbn" : "9786027742284",
+        "judul" : "You Are The Apple of My Eye",
+        "sinopsis" : "Semua berawal saat Ke Jingteng, seorang siswa pembuat onar, dipindahkan untuk duduk di depan Shen Jiayi, supaya gadis murid teladan itu bisa mengawasinya. Ke Jingteng merasa Shen Jiayi sangat membosankan seperti ibu-ibu, juga menyebalkan. Apalagi, gadis itu selalu suka menusuk punggungnya dengan pulpen saat ia ingin tidur di kelas sehingga baju seragamnya jadi penuh bercak tinta. Namun, perlahan Ke Jingteng menyadari, kalau Shen Jiayi adalah seorang gadis yang sangat spesial untuknya.",
+        "penulis" : "Giddens Ko",
+        "genre" : "Romance"
+    }
+]
